@@ -1,7 +1,7 @@
 {
-  "name": "hello-next",
+  "name": "Tasker",
   "version": "1.0.0",
-  "description": "",
+  "description": "task list for all media",
   "scripts": {
     "dev": "next",
     "build": "next build",
